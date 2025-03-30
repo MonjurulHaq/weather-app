@@ -1,1 +1,1 @@
-# weather-app
+# Weather app with API integration
